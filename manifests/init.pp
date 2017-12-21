@@ -15,3 +15,4 @@ class newrelic(
 		include newrelic::uninstall::remove
 	}
 }
+
